@@ -58,3 +58,7 @@ Sunt o persoană creativă, ambițioasă și dornică să învăț lucruri noi. 
 ## English Summary
 
 I am a creative student interested in digital media and technology. I enjoy learning new skills and creating digital projects. My goal is to improve my knowledge and develop my creativity.
+tema-02-cv/
+├── cv.md
+├── cv.pdf
+└── cv.html
