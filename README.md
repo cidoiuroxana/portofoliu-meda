@@ -1,2 +1,2 @@
-# portofoliu-meda
+# portofoliu-media
 portofoliu scolar- productie media
